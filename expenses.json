@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Rent",
+        "amount": "730",
+        "category": "Housing",
+        "date": "2024-08-20"
+    },
+    {
+        "description": "Internet",
+        "amount": "110",
+        "category": "Services",
+        "date": "2024-08-25"
+    }
+]
