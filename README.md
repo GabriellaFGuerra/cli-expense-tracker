@@ -59,7 +59,7 @@ A simple command-line interface for tracking expenses.
 ## Running the CLI
 ------------------
 
-1. Clone this repository: `git clone https://github.com/GabriellaFGuerra/expense-tracker-cli.git`
+1. Clone this repository: `git clone https://github.com/GabriellaFGuerra/cli-expense-tracker.git`
 2. Navigate to the project directory: `cd expense-tracker-cli`
 3. Run the CLI: `python main.py`
 
